@@ -1,16 +1,12 @@
 # animatedicon
 
-A new Flutter project.
+Adding animation to icons in flutter using AnimatedIcon Widget.
 
-## Getting Started
+## App
 
-This project is a starting point for a Flutter application.
+In this repo we have provided a simple example where the animation is made for four icons as seen below 👇.
 
-A few resources to get you started if this is your first Flutter project:
+If you want to know more about animations and other Flutter Widgets...?
+then head over to my channel :  [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<image src="https://user-images.githubusercontent.com/58719230/85714701-4dbbdc00-b708-11ea-9571-866a4189b5a7.gif" width="750" height="450">
